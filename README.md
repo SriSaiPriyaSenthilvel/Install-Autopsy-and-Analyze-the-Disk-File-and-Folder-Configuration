@@ -64,7 +64,6 @@ Export or recover files if required for the investigation.
 
 <img width="655" height="518" alt="image" src="https://github.com/user-attachments/assets/e88edac8-ec43-43eb-832a-7e2d7004835e" />
 
-<img width="1356" height="736" alt="image" src="https://github.com/user-attachments/assets/6f3ff939-1ef6-406c-9100-6ddcb6ef2315" />
 
 
 
